@@ -1,3 +1,3 @@
 ## Object-oriented Programming (Lab Work) Template Guides
-EGI YONI SANDRA_21343005
-Kesimpulan:
+1. EGI YONI SANDRA_21343005
+2. Kesimpulan : 
